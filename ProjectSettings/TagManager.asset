@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PineCollider
+  - RollingStoneCollider
+  - Pine
+  - Skier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkierShadow
+    uniqueID: 2709453939
+    locked: 0
+  - name: StoneShadow
+    uniqueID: 2192640087
+    locked: 0
+  - name: PineShadow
+    uniqueID: 3630967069
+    locked: 0
+  - name: Partical
+    uniqueID: 1718237525
+    locked: 0
+  - name: Skier
+    uniqueID: 923298299
+    locked: 0
+  - name: Stone
+    uniqueID: 220224705
+    locked: 0
+  - name: Pine
+    uniqueID: 1439266005
+    locked: 0
+  - name: FadeBg
+    uniqueID: 3366168589
+    locked: 0
